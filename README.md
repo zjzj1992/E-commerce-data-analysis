@@ -5,7 +5,7 @@
 二、京东与唯品会平台的羽绒服商品对比
 1、京东与唯品会销售的羽绒服上市时间对比（新款：2019年秋和2019年冬）
 下面是京东平台的羽绒服不同上市时间的占比情况
- ![image](https://github.com/zjzj1992/E-commerce-data-analysis/blob/master/images/%E4%BA%AC%E4%B8%9C%E4%B8%8A%E5%B8%82%E6%97%B6%E9%97%B4.png)
+ ![image](https://github.com/zjzj1992/E-commerce-data-analysis/blob/master/images/京东上市时间.png)
 从上面的饼形图可以看出2019年秋和2019年冬上市的羽绒服占了总数的78%。
 
 下面是唯品会平台的羽绒服不同上市时间的占比情况
